@@ -4,7 +4,7 @@
   <artifactId>odoo-config-easydoc</artifactId>
   <name>EasyDoc Odoo config</name>
   <description>Odoo configuration for the EasyDoc distribution</description>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
 
   <developers>
