@@ -76,8 +76,8 @@ CHG1074,CHG1074 - Rectal prolapsus reparation,79ab326c-7790-4cf6-b6c1-436f71dcf4
 CHG1075,CHG1075 - Rectocele,95d6a196-25b3-44fc-9715-9fd37282805f,product.categ_services_general_surgery_orders,service,15000
 CHG1076,CHG1076 - Reintegration Colostomie,8ef13403-b8ab-4e26-8ae0-5ac1978d8271,product.categ_services_general_surgery_orders,service,25000
 CHG1077,CHG1077 - Reparation eventration,e7b08e78-c863-40a5-9a58-608d22ef1c4f,product.categ_services_general_surgery_orders,service,20000
-CHG1078,CHG1078 - Reprise Dilation Anale (1ère intervention à l'HSC),d9e5f167-9867-4792-8e45-a75165144cc0,product.categ_services_general_surgery_orders,service,10000
-CHG1079,CHG1079 - Reprise Dilation Anale (1ère intervention hors de l'HSC),5eb4149e-db38-4e4e-9bec-47173aeaa445,product.categ_services_general_surgery_orders,service,20000
+CHG1078,CHG1078 - Reprise Dilation Anale (1ère intervention a la clinique),d9e5f167-9867-4792-8e45-a75165144cc0,product.categ_services_general_surgery_orders,service,10000
+CHG1079,CHG1079 - Reprise Dilation Anale (1ère intervention hors de la clinique),5eb4149e-db38-4e4e-9bec-47173aeaa445,product.categ_services_general_surgery_orders,service,20000
 CHG1080,CHG1080 - Splenectomie,c6d55c04-9b59-4321-96eb-8e2a5527bc1b,product.categ_services_general_surgery_orders,service,25000
 CHG1081,CHG1081 - Splenorraphie,009dbadd-594c-4e5f-8c3a-b18355bde8e6,product.categ_services_general_surgery_orders,service,25000
 CHG1082,CHG1082 - Stenose Hyperthrophique du pylore,d13a9856-4c3e-4bcc-bd8a-e84a26527860,product.categ_services_general_surgery_orders,service,25000

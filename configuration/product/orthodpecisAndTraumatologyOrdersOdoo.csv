@@ -3,8 +3,8 @@ ORT1001,ORT1001 - Allongement de membre inférieur ,db7b612c-c689-4ca8-9b9d-a7ad
 ORT1002,ORT1002 - Allongement tendineux,5cc5389e-21cf-4c28-a9ed-90f05eb3d492,product.categ_services_orthopedics_orders,service,25000
 ORT1003,ORT1003 - AMO sur demande du patient (Broche),ff6d5d11-68ca-4356-ad2f-faf5ce557db3,product.categ_services_orthopedics_orders,service,20000
 ORT1004,ORT1004 - AMO sur demande du patient (ECM),f04bed11-b0ad-46dd-a213-d1ca2e20bff7,product.categ_services_orthopedics_orders,service,25000
-ORT1005,ORT1005 - AMO sur Fd d'infection (1ère intervention  à l'HSC),865c1b92-1110-430e-a85e-3429b28c6468,product.categ_services_orthopedics_orders,service,15000
-ORT1006,ORT1006 - AMO sur Fd d'infection (1ère intervention hors de l'HSC),13b39504-0db9-4104-b172-d798a669e27f,product.categ_services_orthopedics_orders,service,25000
+ORT1005,ORT1005 - AMO sur Fd d'infection (1ère intervention  a la clinique),865c1b92-1110-430e-a85e-3429b28c6468,product.categ_services_orthopedics_orders,service,15000
+ORT1006,ORT1006 - AMO sur Fd d'infection (1ère intervention hors de la clinique),13b39504-0db9-4104-b172-d798a669e27f,product.categ_services_orthopedics_orders,service,25000
 ORT1007,ORT1007 - Amputation Avant-bras,c592737f-137b-4756-841c-cca46ae7db37,product.categ_services_orthopedics_orders,service,15000
 ORT1008,ORT1008 - Amputation bras,c58f088a-8d79-465f-99ff-dcb00a94461c,product.categ_services_orthopedics_orders,service,20000
 ORT1009,ORT1009 - Amputation Doigts ,9fa3cc4b-bd5d-4c14-85ac-c498e7c6919b,product.categ_services_orthopedics_orders,service,15000
@@ -123,8 +123,8 @@ ORT1121,ORT1121 - Réduction ouverte de Luxation Négligée du coude.,f6cbb353-d
 ORT1122,ORT1122 - Réduction ouverte de Luxation Négligée Metacarpo-Phalangienne,a65637f5-9fe5-4dd2-9cf4-860ded02aef7,product.categ_services_orthopedics_orders,service,20000
 ORT1123,ORT1123 - Réduction ouverte luxation négligée de hanche,a2b8a894-54d7-4ab6-9f16-35908ac77b90,product.categ_services_orthopedics_orders,service,25000
 ORT1124,ORT1124 - Remise sur tension de Latarjet de l'épaule (luxation récidivante),7e8e8bf3-2301-4d7a-90ea-b247119105dd,product.categ_services_orthopedics_orders,service,30000
-ORT1125,ORT1125 - Reprise de moignon (1ère intervention à l'HSC),6decc9dc-ba1e-4a0f-bf86-eab461400080,product.categ_services_orthopedics_orders,service,10000
-ORT1126,ORT1126 - Reprise de moignon (1ère intervention hors de l'HSC),56c3e210-4da2-4c50-befb-5a6ecd9be9e2,product.categ_services_orthopedics_orders,service,20000
+ORT1125,ORT1125 - Reprise de moignon (1ère intervention a la clinique),6decc9dc-ba1e-4a0f-bf86-eab461400080,product.categ_services_orthopedics_orders,service,10000
+ORT1126,ORT1126 - Reprise de moignon (1ère intervention hors de la clinique),56c3e210-4da2-4c50-befb-5a6ecd9be9e2,product.categ_services_orthopedics_orders,service,20000
 ORT1127,ORT1127 - Rétablissement de la prono-supination du poignet (technique de Kapandji),1a3d78ce-a8c8-4338-ba48-16d86b2c3311,product.categ_services_orthopedics_orders,service,25000
 ORT1128,ORT1128 - Reverse sural flap,dd200674-f74c-4e73-b5ad-65b18be5c9e9,product.categ_services_orthopedics_orders,service,20000
 ORT1129,ORT1129 - ROFI -  Clavicule par Plaque vissee Vs embrochage,6721451c-0c30-4932-a753-84b4dc2d8f58,product.categ_services_orthopedics_orders,service,30000
