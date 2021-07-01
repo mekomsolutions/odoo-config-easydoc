@@ -71,7 +71,7 @@ LAB1070,0571da3a-372a-404e-8082-5d0898877b3c,LAB1060 - Sodium (Na),product.categ
 LAB1071,cc9fbad6-3ca9-4a11-a724-6e02990d0f8a,LAB1051 - Potassium (K),product.categ_services_lab_test_orders,service,250
 LAB1072,6a85f546-f4ee-4d38-9dcf-8c601f12ffcb,LAB1019 - Chloride (Cl),product.categ_services_lab_test_orders,service,250
 LAB1073,3e29769f-ebe3-4ca7-9bcc-e3b016730974,LAB1021 - Carbon dioxide,product.categ_services_lab_test_orders,service,200
-LAB1074,0828ef1a-9ba4-43e0-8033-04b19b593f95,"LAB1042 - Electrolytes Panel (Na, K, Cl, CO₂)",product.categ_services_lab_test_orders,service,1250
+LAB1074,0828ef1a-9ba4-43e0-8033-04b19b593f95,"LAB1042 - Electrolytes Panel (Na, K, Cl, Carbon dioxide)",product.categ_services_lab_test_orders,service,1250
 LAB1075,dd83004a-8651-469a-935f-275fddec31cb,LAB1043 - Peripheral Blood Smear,product.categ_services_lab_test_orders,service,1000
 LAB1076,72dc7c29-1890-4fc8-a3a8-41a720565d56,LAB1045 - Lipase,product.categ_services_lab_test_orders,service,750
 LAB1077,e9a62787-3a7f-492b-a949-3de80d82072f,LAB1046 - Magnesium (Mg),product.categ_services_lab_test_orders,service,800
@@ -114,4 +114,4 @@ LAB1113,6a5a0914-a34d-4d5c-954f-020dd925596c,Trichomonas Vaginalis,product.categ
 LAB1114,c108ee98-5abc-43f3-9653-fc920d79e133,LAB1067 - Urinalysis,product.categ_services_lab_test_orders,service,200
 LAB1115,f08b2b7c-f764-4dc8-a336-c42b575ade1a,LAB1068 - Erythrocyte Sedimentation Rate (ESR),product.categ_services_lab_test_orders,service,200
 LAB1116,f19f3a62-1a0c-428a-8f33-b807182bd5d3,LAB1070 - Widal,product.categ_services_lab_test_orders,service,450
-LAB1110,512ce3ef-5b64-457e-b56c-2548347aca2f,LAB1027 - ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),product.categ_services_lab_test_orders,service,450
+LAB1110,512ce3ef-5b64-457e-b56c-2548347aca2f,LAB1027 - ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff),product.categ_services_lab_test_orders,service,450
